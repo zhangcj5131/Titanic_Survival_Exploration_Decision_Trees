@@ -15,3 +15,7 @@
 
 [Anaconda](https://www.continuum.io/downloads)，
 
+### Two essential points
+
+- Decision tree
+- GridSearch
